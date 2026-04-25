@@ -20,6 +20,6 @@ int workingYearsRemaining = retirementAge - age;
 
 
 // Output the results to the user
-Console.WriteLine($"Full Name: {firstName} {lastName");
+Console.WriteLine($"Full Name: {firstName} {lastName}");
 Console.WriteLine($"Age: {age}");
 Console.WriteLine($"Working Years Remaining: {workingYearsRemaining}");
