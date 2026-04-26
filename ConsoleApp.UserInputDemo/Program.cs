@@ -2,7 +2,7 @@
 // collect age and name
 string? firstName = string.Empty;
 string lastName = string.Empty;
-int age = 0;
+int age;
 int retirementAge = 65;
 decimal salary = 0;
 char gender = char.MinValue;
