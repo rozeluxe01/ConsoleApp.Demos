@@ -1,6 +1,8 @@
 <Solution>
+  <Project Path="ConsoleApp.Arrays/ConsoleApp.Arrays.csproj" />
   <Project Path="ConsoleApp.ConditionsAndDecisions/ConsoleApp.ConditionsAndDecisions.csproj" />
   <Project Path="ConsoleApp.ExceptionHandlingDemo/ConsoleApp.ExceptionHandlingDemo.csproj" />
+  <Project Path="ConsoleApp.Lists/ConsoleApp.Lists.csproj" />
   <Project Path="ConsoleApp.Loops/ConsoleApp.Loops.csproj" />
   <Project Path="ConsoleApp.Operators/ConsoleApp.Operators.csproj" />
   <Project Path="ConsoleApp.OutputDemo/ConsoleApp.OutputDemo.csproj" />

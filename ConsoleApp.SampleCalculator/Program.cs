@@ -117,8 +117,6 @@ while (choice != -1)
         Console.WriteLine("press any key to continue.");
         Console.ReadLine();
     }
-
-
 }
 
 Console.WriteLine("Thank you for using the sample calculator program!");
